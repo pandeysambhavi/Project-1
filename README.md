@@ -1,3 +1,3 @@
 # Project-1
-Toursium App
+Toursium App/Tour App
 
